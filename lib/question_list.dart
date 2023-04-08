@@ -5,7 +5,7 @@ import 'package:tarix/question.dart';
 List<Question> questions=[
   Question(
   "Odam  organizmi  faoliyat  o`rganuvchi fan?",{
-    "A) gigiyena ": false,
+    "A) gigiyenaa ": false,
     "B) anatomiya": true,
     "C) fiziologiya": false,
     "D) sitologiya": false,

@@ -81,7 +81,7 @@ class _QuizTestState extends State<QuizTest> {
                 ),
                 Text(questions[index].question!,
                 style: const TextStyle(
-                  fontSize: 20,
+                  fontSize: 18,
                   fontWeight: FontWeight.w400,
                 color: Colors.white),
                 ),
